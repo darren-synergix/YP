@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-color: #fff;
+  padding:50px;
+  font: 16px/1.5 "Roboto", sans-serif;
+  color: black;
+  font-weight:400;
+}
+
+h1 {
+  font-size:32px;
+  margin:0 0 40px;
+}
+
+hr {
+  margin:0 0 30px;
+}
